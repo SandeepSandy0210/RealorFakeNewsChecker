@@ -1,17 +1,4 @@
 pandas
 numpy
 scikit-learn
-nltk
 streamlit
-sklearn
-scikit-learn
-matplotlib
-seaborn
-spacy
-spacy-transformers
-transformers
-torch
-tensorflow
-sentence-transformers
-sentencepiece
-datasets
