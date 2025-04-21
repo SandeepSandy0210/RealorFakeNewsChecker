@@ -3,3 +3,14 @@ numpy
 scikit-learn
 nltk
 streamlit
+sklearn
+matplotlib
+seaborn
+spacy
+spacy-transformers
+transformers
+torch
+tensorflow
+sentence-transformers
+sentencepiece
+datasets
